@@ -1,0 +1,20 @@
+{
+  "name": "p10",
+  "version": "1.0.0",
+  "description": "Conexion a base de datos en MySql",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Armando cruz y Antonio Guzman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}
